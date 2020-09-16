@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Xry_Fire
+  m_Shader: {fileID: -6465566751694194690, guid: 6262e021a7483ab4785ee21aea86199f,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_C72C473: 0.11
+    m_Colors:
+    - Color_4A0B6B53: {r: 0.8352941, g: 0.05235229, b: 0, a: 0}
+    - Color_9C27A57D: {r: 1, g: 0.6293038, b: 0.004716992, a: 0}
